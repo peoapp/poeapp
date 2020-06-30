@@ -26,7 +26,13 @@ When hover a mod from an item with the mouse, display the min/max range
 
 ex: https://pathofexile.gamepedia.com/Xoph%27s_Nurture
 
+
+Before:
+
 ![Before](data/chrome_9Etgf5dF3c.png)
+
+
+After: 
 
 ![After](data/chrome_K3avKlS7QD.png)
 
